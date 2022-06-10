@@ -1,0 +1,4 @@
+- 👋 Olá eu me chamo Maria Clara
+- 👀 Eu estou interessada em aprender a programar
+- 🌱 Eu estou aprendendo muitas coisas.
+- 💞️ Eu estou tentando colaborar com o professor.
